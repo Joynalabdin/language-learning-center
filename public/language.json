@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "English For Beginner",
+    "price": 243,
+    "duration": "40 hours",
+    "lesson": 22,
+    "details": "Learn basic English for everyday situations and improve your listening skills with this online English language course.",
+    "students": 987,
+    "img": "https://img.freepik.com/free-photo/young-student-man-learning-english-isolated-white-wall-excited-keeping-ok-gesture-eye_1187-130711.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chinese For Beginner",
+    "price": 349,
+    "duration": "20 hours",
+    "lesson": 32,
+    "details": "This is an ABC Chinese course for beginners, including introduction of phonetics and daily expressions. From Peking University.",
+    "students": 453,
+    "img": "https://thumbs.dreamstime.com/b/speak-chinese-concept-happy-woman-against-people-s-republic-china-flag-background-141678987.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Spanish For Beginner",
+    "price": 236,
+    "duration": "32 hours",
+    "lesson": 32,
+    "details": "Beginners course for learners of Spanish that focuses not only on language, specifically designed for English speakers.",
+    "students": 654,
+    "img": "https://www.thoughtco.com/thmb/pc54LSnJZ0d0Buvry1swnr3sIw0=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/spanish-on-blackboard-596d75c122fa3a00111f7fc9.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Marathi For Beginner",
+    "price": 564,
+    "duration": "45 hours",
+    "lesson": 54,
+    "details": "Learn Marathi for everyday situations and improve your listening skills with this online Marathi language course",
+    "students": 654,
+    "img": "https://80907-519125-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/09/learn-foreign-languages.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hindi For Beginner",
+    "price": 432,
+    "duration": "64 hours",
+    "lesson": 21,
+    "details": "",
+    "students": 235,
+    "img": "https://www.optilingo.com/wp-content/uploads/2019/03/hindi-tablet-girl.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bengali For Beginner",
+    "price": 455,
+    "duration": "23 hours",
+    "lesson": 63,
+    "students": 765,
+    "img": "https://i.pinimg.com/736x/c8/cf/ee/c8cfee76b5f69021823f86c65f1c071e.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Portuguese For Beginner",
+    "price": 434,
+    "duration": "54 hours",
+    "lesson": 42,
+    "students": 112,
+    "img": "https://learn-portuguese.org/wp-content/uploads/2020/05/Brazilian-Portuguese-vs-European-Portuguese-848x480-1.png"
+  },
+  {
+    "id": 8,
+    "name": "Russian For Beginner",
+    "price": 232,
+    "duration": "23 hours",
+    "lesson": 53,
+    "students": 854,
+    "img": "https://thumbs.dreamstime.com/b/learn-russian-handwriitng-text-learn-russian-handwriitng-text-notebook-157790280.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Japanese For Beginner",
+    "price": 543,
+    "duration": "62 hours",
+    "lesson": 12,
+    "students": 235,
+    "img": "https://teamjapanese.com/wp-content/uploads/2016/11/Article-3-How-Hard-It-Is-To-Learn-Japanese.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Punjabi For Beginner",
+    "price": 654,
+    "duration": "43 hours",
+    "lesson": 42,
+    "students": 754,
+    "img": "https://c0.wallpaperflare.com/preview/722/962/382/learn-student-laptop-internet.jpg"
+  }
+]
